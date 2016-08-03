@@ -11,8 +11,11 @@ Project will contain [Laravel 5 IDE Helper](https://github.com/barryvdh/laravel-
 ## Usage
 
  1) Clone/Download this repository.
+ 
  2) Run composer install command inside the project directory, to know more about [composer](https://getcomposer.org/doc/)
+ 
  3) Configure the [environment file](https://laravel.com/docs/5.1/installation#environment-configuration) according to your project.
+ 
  4) You need to ENABLE [PSR-2 coding styles](https://confluence.jetbrains.com/display/PhpStorm/PHP+Mess+Detector+in+PhpStorm)
 
 ##Note
