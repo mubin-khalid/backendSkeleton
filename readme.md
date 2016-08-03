@@ -15,6 +15,9 @@ Project will contain [Laravel 5 IDE Helper](https://github.com/barryvdh/laravel-
  3) Configure the [environment file](https://laravel.com/docs/5.1/installation#environment-configuration) according to your project.
  4) You need to ENABLE [PSR-2 coding styles](https://confluence.jetbrains.com/display/PhpStorm/PHP+Mess+Detector+in+PhpStorm)
 
+##Note
+ after composer install, go to _config/app.php_ and uncomment the __Line 139__
+ //Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 #### Optional
 
 if you want more control, [follow up this guide](https://confluence.jetbrains.com/display/PhpStorm/Laravel+Development+using+PhpStorm)
