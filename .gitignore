@@ -7,3 +7,4 @@ Homestead.json
 .env.example
 .phpstorm.meta.php
 _ide_helper.php
+*.xml
